@@ -1,0 +1,834 @@
+[
+
+][
+
+][
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100-custom-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/intel-pentium-gold-g7400-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07ada05-ryzen-5-3500u-brand-pc"
+},
+{
+    "name": null,
+    "price": "",
+    "stock": null,
+    "url": "https://www.startech.com.bd/amd-athlon-3000g-budget-desktop-pc"
+}
+][
+{
+    "name": null,
+    "price": "323,999৳",
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+},
+{
+    "name": null,
+    "price": "55,149৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,999৳",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,999৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,300৳",
+    "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100-custom-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,300৳",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "url": "https://www.startech.com.bd/intel-pentium-gold-g7400-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "25,300৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "35,000৳",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07ada05-ryzen-5-3500u-brand-pc"
+},
+{
+    "name": null,
+    "price": "25,300৳",
+    "url": "https://www.startech.com.bd/amd-athlon-3000g-budget-desktop-pc"
+}
+][
+{
+    "name": "Apple iMac M3 Chip 512GB SSD 24\" 4.5K Retina Display Green All-in-One PC (Late 2023)",
+    "price": "323,999৳",
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": "Dell Vostro 3910 MT Core i3 12th Gen Tower Brand PC",
+    "price": "61,500৳",
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": "Dell OptiPlex 3000 Core i3 12th Gen Tower Brand PC",
+    "price": "61,500৳",
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": "Lenovo IdeaCentre 3 07IRB8 Core i3 13th Gen Brand PC",
+    "price": "61,500৳",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": "HP Pro Tower 280 G9 Core i3 12th Gen 4GB RAM Desktop PC",
+    "price": "52,000৳",
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": "HP Pro Tower 280 G9 Core i3 12th Gen 4GB RAM 256GB SSD Desktop PC",
+    "price": "52,000৳",
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G GIGABYTE Special Desktop PC",
+    "price": "47,400৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 8500G Desktop PC",
+    "price": "55,149৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+},
+{
+    "name": "Intel 12th Gen Core i5-12400 Budget Desktop PC",
+    "price": "47,400৳",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G Desktop PC",
+    "price": "47,400৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-desktop-pc"
+},
+{
+    "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+    "price": "36,999৳",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+    "price": "36,999৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+},
+{
+    "name": "Intel 10th Gen Core i3-10100 Custom Desktop PC",
+    "price": "36,300৳",
+    "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100-custom-desktop-pc"
+},
+{
+    "name": "Intel Core i3-12100 12th Gen Desktop PC",
+    "price": "36,300৳",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-desktop-pc"
+},
+{
+    "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+    "price": "30,300৳",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 5600G Desktop PC",
+    "price": "30,300৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+},
+{
+    "name": "Intel Pentium Gold G7400 Budget Desktop PC",
+    "price": "30,300৳",
+    "url": "https://www.startech.com.bd/intel-pentium-gold-g7400-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 2400G Desktop PC",
+    "price": "25,300৳",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+},
+{
+    "name": "Lenovo IdeaCentre 3 07ADA05 AMD Ryzen 5 3500U Brand PC",
+    "price": "35,000৳",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07ada05-ryzen-5-3500u-brand-pc"
+},
+{
+    "name": "AMD Athlon 3000G Budget Desktop PC",
+    "price": "25,300৳",
+    "url": "https://www.startech.com.bd/amd-athlon-3000g-budget-desktop-pc"
+}
+][
+{
+    "name": "Apple iMac M3 Chip 512GB SSD 24\" 4.5K Retina Display Green All-in-One PC (Late 2023)",
+    "price": "323,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": "Dell Vostro 3910 MT Core i3 12th Gen Tower Brand PC",
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": "Dell OptiPlex 3000 Core i3 12th Gen Tower Brand PC",
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": "Lenovo IdeaCentre 3 07IRB8 Core i3 13th Gen Brand PC",
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": "HP Pro Tower 280 G9 Core i3 12th Gen 4GB RAM Desktop PC",
+    "price": "52,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": "HP Pro Tower 280 G9 Core i3 12th Gen 4GB RAM 256GB SSD Desktop PC",
+    "price": "52,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G GIGABYTE Special Desktop PC",
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 8500G Desktop PC",
+    "price": "55,149৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+},
+{
+    "name": "Intel 12th Gen Core i5-12400 Budget Desktop PC",
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G Desktop PC",
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-desktop-pc"
+},
+{
+    "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+    "price": "36,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+    "price": "36,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+},
+{
+    "name": "Intel 10th Gen Core i3-10100 Custom Desktop PC",
+    "price": "36,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100-custom-desktop-pc"
+},
+{
+    "name": "Intel Core i3-12100 12th Gen Desktop PC",
+    "price": "36,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-desktop-pc"
+},
+{
+    "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+    "price": "30,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 5600G Desktop PC",
+    "price": "30,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+},
+{
+    "name": "Intel Pentium Gold G7400 Budget Desktop PC",
+    "price": "30,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-pentium-gold-g7400-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 2400G Desktop PC",
+    "price": "25,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+},
+{
+    "name": "Lenovo IdeaCentre 3 07ADA05 AMD Ryzen 5 3500U Brand PC",
+    "price": "35,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07ada05-ryzen-5-3500u-brand-pc"
+},
+{
+    "name": "AMD Athlon 3000G Budget Desktop PC",
+    "price": "25,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-athlon-3000g-budget-desktop-pc"
+}
+][
+{
+    "name": "Apple iMac M3 Chip 512GB SSD 24\" 4.5K Retina Display Green All-in-One PC (Late 2023)",
+    "price": "323,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": "Dell Vostro 3910 MT Core i3 12th Gen Tower Brand PC",
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": "Dell OptiPlex 3000 Core i3 12th Gen Tower Brand PC",
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": "Lenovo IdeaCentre 3 07IRB8 Core i3 13th Gen Brand PC",
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": "HP Pro Tower 280 G9 Core i3 12th Gen 4GB RAM Desktop PC",
+    "price": "52,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": "HP Pro Tower 280 G9 Core i3 12th Gen 4GB RAM 256GB SSD Desktop PC",
+    "price": "52,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G GIGABYTE Special Desktop PC",
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 8500G Desktop PC",
+    "price": "55,149৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+},
+{
+    "name": "Intel 12th Gen Core i5-12400 Budget Desktop PC",
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G Desktop PC",
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-desktop-pc"
+},
+{
+    "name": "Intel 12th Gen Core i5-12400 Desktop PC",
+    "price": "36,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 7 5700G Custom Desktop PC",
+    "price": "36,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+},
+{
+    "name": "Intel 10th Gen Core i3-10100 Custom Desktop PC",
+    "price": "36,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100-custom-desktop-pc"
+},
+{
+    "name": "Intel Core i3-12100 12th Gen Desktop PC",
+    "price": "36,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-desktop-pc"
+},
+{
+    "name": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+    "price": "30,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 5600G Desktop PC",
+    "price": "30,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+},
+{
+    "name": "Intel Pentium Gold G7400 Budget Desktop PC",
+    "price": "30,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/intel-pentium-gold-g7400-budget-desktop-pc"
+},
+{
+    "name": "AMD Ryzen 5 2400G Desktop PC",
+    "price": "25,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+},
+{
+    "name": "Lenovo IdeaCentre 3 07ADA05 AMD Ryzen 5 3500U Brand PC",
+    "price": "35,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07ada05-ryzen-5-3500u-brand-pc"
+},
+{
+    "name": "AMD Athlon 3000G Budget Desktop PC",
+    "price": "25,300৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-athlon-3000g-budget-desktop-pc"
+}
+][
+{
+    "name": null,
+    "price": "323,999৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+},
+{
+    "name": null,
+    "price": "55,149৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,999৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,999৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100-custom-desktop-pc"
+},
+{
+    "name": null,
+    "price": "36,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-5600g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/intel-pentium-gold-g7400-budget-desktop-pc"
+},
+{
+    "name": null,
+    "price": "25,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-desktop-pc"
+},
+{
+    "name": null,
+    "price": "35,000৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07ada05-ryzen-5-3500u-brand-pc"
+},
+{
+    "name": null,
+    "price": "25,300৳",
+    "stock": "In Stock",
+    "url": "https://www.startech.com.bd/amd-athlon-3000g-budget-desktop-pc"
+}
+][
+{
+    "name": null,
+    "price": "323,999৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/apple-imac-m3-24-inch-green-all-in-one-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/dell-vostro-3910-mt-core-i3-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/dell-optiplex-3000-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/lenovo-ideacentre-3-07irb8-core-i3-13th-gen-brand-pc"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/hp-280-pro-g9-i3-12th-gen-tower-brand-pc"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/hp-pro-tower-280-g9-core-i3-12th-gen-desktop-pc"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "Out of Stock",
+    "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-gigabyte-desktop-pc"
+}[
+{
+    "name": null,
+    "price": "323,999৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "61,500৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "52,000৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "55,149৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "47,400৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "36,999৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "36,999৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "36,300৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "36,300৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "30,300৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "25,300৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "35,000৳",
+    "stock": "Out of Stock"
+},
+{
+    "name": null,
+    "price": "25,300৳",
+    "stock": "Out of Stock"
+}
+]
